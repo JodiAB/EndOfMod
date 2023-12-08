@@ -158,7 +158,7 @@ body{
 }
 
 #hero button{
-    background-image: url("img/button.png");
+    background-image: url("https://i.postimg.cc/Mpb4n1Pd/hero4.png");
     background-color: transparent;
     color: #088178;
     border: 0;
@@ -191,21 +191,6 @@ background-color: bisque;
 
 
 
-/* #page-header{
-    background-image: url("/img/banner/b1.jpg");
-    width: 100%;
-    height: 40vh;
-    background-size: cover;
-    display: flex;
-    justify-content: center;
-    text-align: center;
-    flex-direction: column;
-    padding: 14px;
-}
-
-#page-header h2, #page-header p{
-    color: #fff;
-} */
 
 #pagination{
     text-align: center;
